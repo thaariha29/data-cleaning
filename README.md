@@ -189,10 +189,9 @@ The script expects a CSV with these columns (column names are flexible — scrip
 
 **Thaariha**  
 Data Analytics Intern — Thiranex  
-Amity University, Noida
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  License — see the [LICENSE](LICENSE) file for details.
